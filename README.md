@@ -8,7 +8,7 @@ A simple personal website that showcases my **Top 5 favourite games** that I pla
 
 ## 🧠 About
 
-This site highlights my **favourite games of the year**, including insights into why I love each one. These aren’t necessarily ranked — just five titles that stood out to me the most. You can click each game’s logo to visit its Steam page directly. :contentReference[oaicite:0]{index=0}
+This site highlights my **favourite games of the year**, including insights into why I love each one. These aren’t necessarily ranked — just five titles that stood out to me the most. You can click each game’s logo to visit its Steam page directly.
 
 ---
 
@@ -25,7 +25,6 @@ This site highlights my **favourite games of the year**, including insights into
 
 On this site, you’ll find:
 - **My top games** from this year with short write-ups explaining what I liked.
-- **Honorable mentions** for games that were close to making the list. :contentReference[oaicite:1]{index=1}
 
 The content is written for *fun and personal expression*, not as an authoritative ranking — just my genuine impressions of games I enjoyed.
 
